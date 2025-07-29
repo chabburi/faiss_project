@@ -41,7 +41,7 @@ Instead of reading line by line, just upload the JD file and ask!
 
 ## 📁 Project Structure
 
-local-chatbot-RAG/
+faiss_project/
 │
 ├── rag/
 │ ├── embedding.py # Embedding logic
@@ -68,10 +68,10 @@ local-chatbot-RAG/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/local-chatbot-RAG.git
+git clone https://github.com/chabburi/faiss_project.git
 
 # 2. Navigate into the project folder
-cd local-chatbot-RAG
+cd faiss_project
 
 # 3. (Optional) Create and activate a virtual environment
 python -m venv venv
