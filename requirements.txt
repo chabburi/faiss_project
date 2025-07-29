@@ -1,0 +1,5 @@
+faiss-gpu
+langchain-community
+langchain_aws
+pypdf
+streamlit
